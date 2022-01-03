@@ -1,5 +1,9 @@
 
-![alt text](https://github.com/emabistar/blogpost/blob/4df44649cbd8c54c0868a8a373f7df7bbbf8d986/Vue%20Front%20End%20For%20A%20Laravel%20API.png)
+![alt text](https://github.com/emabistar/blogpost/blob/4df44649cbd8c54c0868a8a373f7df7bbbf8d986/VueFront%20End%20ForLaravelAPI.png)
+
+![alt text](https://github.com/emabistar/blogpost/blob/4df44649cbd8c54c0868a8a373f7df7bbbf8d986/laravel-api.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
